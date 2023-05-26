@@ -1,0 +1,29 @@
+.bg{
+    background-color: #074f77;
+}
+.btn{
+    position: relative;
+    left: 85%;
+    margin: 20px auto;
+}
+.text{
+    color: white;
+    margin: 10px auto;
+}
+.mn{
+    text-align: center;
+    background-color: lightseagreen;
+    border-radius: 10px;
+}
+.btn1{
+    text-align: center;
+    background-color: lightseagreen;
+    border-radius: 10px;
+    width: 20px;
+    margin: 20px auto;
+}
+.bn{
+    border-radius: 10px;
+    width: 20px;
+    margin: 20px auto;
+}
